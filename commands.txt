@@ -2,3 +2,5 @@
 
 python detect_virus.py
 
+
+virus file link - https://www.eicar.org/download-anti-malware-testfile/
