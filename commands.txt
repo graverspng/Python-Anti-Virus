@@ -1,0 +1,4 @@
+(iersaksti pareizos - is_file_corrupted.py & detect_virus.py)
+
+python detect_virus.py
+
